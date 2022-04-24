@@ -7,11 +7,7 @@ public final class ItemRace extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        System.out.println("Plugin ready!");
 
-    }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
     }
 }
