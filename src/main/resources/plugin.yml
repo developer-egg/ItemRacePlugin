@@ -1,0 +1,6 @@
+name: ItemRace
+version: '${project.version}'
+main: me.eggerga.itemrace.ItemRace
+api-version: 1.18
+authors: [ Eggerga ]
+description: 1v1 race to get items and not be eliminated!
